@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	tictactoe.DoGame(tictactoe.MinimaxPlayer, tictactoe.MinimaxPlayer)
+	tictactoe.DoGame(tictactoe.MinimaxPlayer, tictactoe.HumanPlayer)
 }
